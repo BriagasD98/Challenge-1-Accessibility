@@ -21,7 +21,7 @@ a webstie with ease when using tools such as Screen Readers.
 * CSS
 
 ## Website
-https://briagasd98.github.io/run-buddy/
+
 
 ## Contribution
 Made with ❤️ by David Briagas
